@@ -1,10 +1,3 @@
-//
-//  WeSplitApp.swift
-//  WeSplit
-//
-//  Created by Вадим Исламов on 10.11.2023.
-//
-
 import SwiftUI
 
 @main
